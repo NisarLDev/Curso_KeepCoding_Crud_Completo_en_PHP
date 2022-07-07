@@ -1,0 +1,14 @@
+CREATE DATABASE php_crud;
+
+use php_crud;
+
+CREATE TABLE usuarios (
+  id INT(11) UNSIGNED AUTO_INCREMENT PRIMARY KEY,
+  nombres VARCHAR(30) NOT NULL,
+  apellidos VARCHAR(30) NOT NULL,
+  email VARCHAR(50) NOT NULL,
+  telefono INT(9),
+  contraseña VARCHAR(50) NOT NULL,
+  created_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP,
+  updated_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP
+);
