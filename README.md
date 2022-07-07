@@ -2,4 +2,4 @@ Programado en PHP 8 con el paradigma de Programación Orientada a Objetos  (POO 
 
 Falta por definir correctamente la variable correspondiente a la contraseña.
 
-Este crud se basa en dos proyectos diferentes que he aunado. Los proyectos en los que me he basado son los siguientes NeoGuías y Tech on Tech. Aquí dejo los enlaces a dichos proyectos en GitHub: https://github.com/neoguias/tutorial-crud-php y https://github.com/techontech/php-oop-crud
+Este crud se basa en dos proyectos diferentes que he aunado. Los proyectos en los que me he basado son los siguientes: NeoGuías y Tech on Tech. Aquí dejo los enlaces a dichos proyectos en GitHub: https://github.com/neoguias/tutorial-crud-php y https://github.com/techontech/php-oop-crud
