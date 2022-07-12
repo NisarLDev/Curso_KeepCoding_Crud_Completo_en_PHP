@@ -2,4 +2,4 @@ Para la sección del Back End de la página, se ha programado en PHP 8 con el pa
 
 Falta por definir correctamente la variable correspondiente a la contraseña.
 
-Este crud se basa en la conjugación dos proyectos diferentes, NeoGuías y Tech on Tech. Aquí les dejo los enlaces a dichos proyectos en GitHub: https://github.com/neoguias/tutorial-crud-php y https://github.com/techontech/php-oop-crud
+Este crud se basa en la conjugación de dos proyectos diferentes, NeoGuías y Tech on Tech. Aquí les dejo los enlaces a dichos proyectos en GitHub: https://github.com/neoguias/tutorial-crud-php y https://github.com/techontech/php-oop-crud
